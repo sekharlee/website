@@ -1,5 +1,0 @@
-## Subdomain Takeover
-
-
-### Sekharlee
-
